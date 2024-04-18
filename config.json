@@ -1,0 +1,7 @@
+{
+    "model_name": "model",
+    "training_file_path": "data/customers.json",
+    "running_file_path": "data/customers.json",
+    "output_filename": "output/email_predictions"
+  }
+  
